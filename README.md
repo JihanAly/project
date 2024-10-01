@@ -7,10 +7,10 @@ kelas C
 1. while True adalah konstruksi perulangan yang memungkinkan blok kode diulang tanpa batas
 2. Penginputan harga barang dan jumlah pembelian serta menghitung nya
 harga_barang = int(input("masukkan harga barang: "))
-tarif_kerja = int(input("masukkan jumlah pembelian: "))
+jumlah_pembelian = int(input("masukkan jumlah pembelian: "))
 total harga barang = harga_barang * jumlah_pembelian
 print("total harga barang anda adalah:" )
-3. Melakukan pengulangan hitung total harga barang dengan menggunakan while True
+4. Melakukan pengulangan hitung total harga barang dengan menggunakan while True
 while True:
 hitung_harga_barang()
 print()
