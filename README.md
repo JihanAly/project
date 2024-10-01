@@ -12,7 +12,7 @@ total harga barang = harga_barang * jumlah_pembelian
 print("total harga barang anda adalah:" )
 3. Melakukan pengulangan hitung total harga barang dengan menggunakan while True
 while True:
-hitung_gaji()
+hitung_harga_barang()
 print()
 ulang = input("Apakah anda ingin mengulang hitung total harga barang? (Y/T): ")
 if ulang == "t":
